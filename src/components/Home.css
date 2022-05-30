@@ -1,0 +1,14 @@
+.hero{
+    background-image: url("../../public/gettyimages-1248607560-2048x2048.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-grid{
+    width: 100%;
+}
